@@ -20,11 +20,19 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
   color: #F24C27;
 }
 
+/*Jumbotron color*/
+.jumbotron{
+  background-color: #2980B9;
+}
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: #ECF0F1;
+  /*
   background-image: url("../images/bg.jpg");
+  */
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
